@@ -1,0 +1,64 @@
+/**************************TAG SELECTION**************************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Rock Salt', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 30%;
+  border-color: grey;
+  border-width: 8px;
+}
+
+/**************************CLASS SELCTION************************/
+.top {
+  background-color: #eff7e1;
+  padding-top: 100px;
+  position: relative;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  top: 250px;
+  left: 300px;
+}
+
+.middle {
+  background-color: #eff7e1;
+}
+.profile{
+  padding-bottom: 50px;
+}
+.profile-image {
+  padding-top: 20px;
+  max-width: 80%;
+  max-height: auto;
+}
+
+.skill-row {
+  padding: 20px;
+}
+
+.bottom {
+  background-color: #eff7e1;
+  padding-bottom: 50px;
+}
